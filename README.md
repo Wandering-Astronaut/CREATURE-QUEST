@@ -80,11 +80,4 @@ creature-quest/
 | RAM | 4 GB | 8 GB |
 | Storage | 500 MB | 1 GB |
 
-## Team
 
-| Name |
-|------|
-| John Gabriel M. Milka |
-| Joshua Adrian M. Mortel |
-
-> Object Oriented Programming Project — Columban College, Inc. | BSCS
